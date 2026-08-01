@@ -1,0 +1,22 @@
+generated: '2026-07-21'
+method: searched
+source: https://besirius.io/security
+summary: >-
+  beSirius publishes an enterprise security posture with named certifications and
+  a data-protection program. No public API standards surface (OpenAPI, OAuth/OIDC,
+  FHIR, SCIM, etc.) is published, so cross-cutting API-standard conformance is not
+  asserted. The entries below capture the compliance program the provider states
+  on its Security page.
+standards:
+  - id: iso-27001
+    name: ISO/IEC 27001:2022
+    conforms: true
+    evidence: "Security page states ISO/IEC 27001:2022 certification (Advantage Partners), annual surveillance audits; certificate available to enterprise customers on request."
+  - id: soc2
+    name: SOC 2 Trust Services Criteria
+    conforms: true
+    evidence: "Security page states alignment with SOC 2 Trust Services Criteria (security, availability, confidentiality)."
+  - id: gdpr
+    name: GDPR
+    conforms: true
+    evidence: "Security page states GDPR compliance for EU data protection."

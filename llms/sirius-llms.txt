@@ -1,0 +1,65 @@
+# beSirius
+
+> AI for the critical minerals supply chain. Every audit, certification, KYC and risk assessment your buyers, auditors and regulators require, automated across your entire value chain.
+
+beSirius builds a Twin of every supplier — a continuously verified digital profile that maps each company's data to any framework, questionnaire, or regulation (CSDDD, CMRT, EMRT, AMRT, EcoVadis, CDP, S&P CSA, UNGC, LME Passport, CMSI, and more). The platform automates supplier due diligence, RMI/conflict-minerals reporting, and ratings improvement for the critical minerals value chain.
+
+## Core
+
+- [Homepage](https://besirius.io/): Overview of the Twin and what beSirius automates.
+- [Manifesto](https://besirius.io/manifesto): Why beSirius exists and the company's vision for sustainability intelligence.
+- [About us](https://besirius.io/about-us): Team and company background.
+- [Customers](https://besirius.io/customers): Case studies including 3A Composites, Iveco Group, and Gerald Group.
+- [Security](https://besirius.io/security): Enterprise security posture.
+- [FAQs](https://besirius.io/faqs): Common questions about the platform and data handling.
+
+## Solutions
+
+- [Solutions overview](https://besirius.io/solutions): All product capabilities at a glance.
+- [Supplier due diligence](https://besirius.io/solutions/due-diligence): Evidence-based supplier due diligence powered by Twins. Automates CSDDD compliance, risk assessment, and corrective actions.
+- [Supplier assessment](https://besirius.io/solutions/supplier-assessment): Collect, verify, and assess supplier sustainability data at scale.
+- [CMSI assessment](https://besirius.io/solutions/cmsi-assessment): Automate Consolidated Mining Standard Initiative (CMSI) assessments.
+- [RMI automation](https://besirius.io/solutions/rmi-automation): Automate CMRT, EMRT, and AMRT conflict-minerals reporting.
+- [CDP Scoring Analysis tool](https://besirius.io/analyze-your-cdp-scores): Free tool to assess where you are losing points in CDP disclosure.
+- [Supplier due diligence trial](https://besirius.io/supplier-due-diligence-trial): Free trial of the supplier due diligence solution.
+
+## Guides
+
+- [Guides hub](https://besirius.io/guides): Free guides, templates, and toolkits for sustainability teams.
+- [RMI templates guide (CMRT, EMRT, AMRT)](https://besirius.io/guides/rmi-templates-guide)
+- [Practical roadmap for sustainability leaders in 2025](https://besirius.io/guides/practical-roadmap-for-sustainability-leaders-in-2025)
+- [EcoVadis guide](https://besirius.io/guides/ecovadis)
+- [Sustainability Outlook 2025 report](https://besirius.io/guides/report-sustainability-outlook-2025)
+- [UN Global Compact handbook](https://besirius.io/guides/ungc-handbook)
+- [CDP Success Toolkit 2025](https://besirius.io/guides/cdp-success-toolkit-2025)
+- [S&P Global Corporate Sustainability Assessment guide](https://besirius.io/guides/s-p-global-corporate-sustainability-assessment)
+
+## Blog
+
+- [Blog index](https://besirius.io/blog)
+- [Is CDP scoring worth it?](https://besirius.io/blog/blog-cdp-scoring-is-cdp-worth-it)
+- [CDP 2026: How to improve your score before submission](https://besirius.io/blog/cdp-2026-improve-score-before-submission)
+- [CDP 2025: Why the 2024 changes still matter](https://besirius.io/blog/cdp-2025-why-the-2024-changes-still-matter)
+- [What happened to the CDP 2024 scores](https://besirius.io/blog/what-happened-to-the-cdp-2024-scores)
+- [CDP reporting 2024: key updates and quick tips](https://besirius.io/blog/cdp-reporting-2024-key-updates-and-quick-tips)
+- [CMRT 6.5: version history, key changes, impact](https://besirius.io/blog/cmrt-6-5-version-history-key-changes-impact)
+- [Selecting the right minerals reporting template (CMRT, EMRT, AMRT)](https://besirius.io/blog/selecting-the-right-minerals-reporting-template-for-compliance-cmrt-emrt-amrt)
+- [CMRT 2025 conflict minerals reporting guide](https://besirius.io/blog/cmrt-2025-conflict-minerals-reporting-guide)
+- [Best critical minerals due diligence software (2026)](https://besirius.io/blog/best-critical-minerals-due-diligence-software)
+- [beSirius now supports LME Passport submissions](https://besirius.io/blog/be-sirius-now-supports-lmepassport-submissions)
+- [Sustainability due diligence in mining and metals 2026](https://besirius.io/blog/esg-due-diligence-mining-metals-2026)
+- [Sustainability Outlook 2025](https://besirius.io/blog/sustainability-outlook-2025)
+- [What is a Twin?](https://besirius.io/blog/sustainability-twin)
+- [How to operationalise sustainability data](https://besirius.io/blog/operationalize-sustainability-data)
+
+## Contact
+
+- [Book a demo](https://besirius.io/demo)
+- [Get in touch](https://besirius.io/get-in-touch)
+- [Newsletter](https://besirius.io/newsletter)
+- [Memes](https://besirius.io/memes): Mining and sustainability humor.
+
+## Optional
+
+- [Privacy policy](https://besirius.io/privacy-policy)
+- [Cookie policy](https://besirius.io/cookie-policy)

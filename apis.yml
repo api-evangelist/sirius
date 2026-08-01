@@ -1,7 +1,15 @@
 aid: sirius
 name: Sirius
-description: Sirius is a company surfaced as a portfolio company of techstars and added to the API Evangelist
-  network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: >-
+  beSirius is an Amsterdam-based AI platform for the critical minerals and metals value
+  chain. It builds a continuously verified digital Twin of every supplier, mapping each
+  company's data to the frameworks, questionnaires, and regulations its buyers, auditors,
+  and regulators require - including CSDDD, CMRT/EMRT/AMRT conflict-minerals reporting,
+  EcoVadis, CDP, S&P CSA, UN Global Compact, LME Passport, and the Consolidated Mining
+  Standard Initiative (CMSI). The platform automates supplier due diligence, sustainability
+  and ESG data collection and verification, certification readiness, customer KYC, and
+  ratings improvement across mining, processing, and trading supply chains, reducing manual
+  audit and disclosure effort. beSirius is backed by Techstars and other investors.
 url: https://raw.githubusercontent.com/api-evangelist/sirius/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -9,11 +17,32 @@ x-backed-by:
 - techstars
 x-tier: stub
 x-tier-reason: portfolio-lead
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-21'
+image: https://besirius.io/og-image.png
 tags:
 - Company
+- Sustainability
+- ESG
+- Critical Minerals
+- Supply Chain
+- Due Diligence
+- Compliance
+- Mining
+- Metals
+- Artificial Intelligence
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -23,3 +52,22 @@ maintainers:
 common:
 - type: Website
   url: https://besirius.io/
+- type: Blog
+  url: https://besirius.io/blog
+- type: Support
+  url: https://besirius.io/get-in-touch
+- type: PrivacyPolicy
+  url: https://besirius.io/privacy-policy
+- type: Compliance
+  url: https://besirius.io/security
+- type: LLMsTxt
+  url: llms/sirius-llms.txt
+- type: Conformance
+  url: conformance/sirius-conformance.yml
+- type: DomainSecurity
+  url: security/sirius-domain-security.yml
+x-enrichment:
+  date: '2026-07-21'
+  status: enriched
+  artifacts_added: 3
+  pass: local-v1
